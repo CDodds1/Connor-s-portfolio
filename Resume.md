@@ -1,4 +1,4 @@
-# Connors-resume
+# Connor's-resume
 hello my name is Connor and this is my portfolio for ist course at [Mcintosh Highschool](https://www.fcboe.org/mhs)
 
 ## Education 
