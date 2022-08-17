@@ -15,6 +15,6 @@ I graduated from [Bellhaven Middleschool](https://belhaven.linwoodschools.org/) 
 ## Hobbies 
 
 - I play computer games 
-- edit videos 
-- play the piano
+- I edit videos 
+- I play the piano
 - I go to the gym
