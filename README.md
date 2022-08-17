@@ -2,7 +2,7 @@
 hello my name is Connor and this is my portfolio for ist course at [Mcintosh Highschool](https://www.fcboe.org/mhs)
 
 ## Education 
-I graduated from [bellhaven middleschool](https://belhaven.linwoodschools.org/) and the pathways that I am taking
+I graduated from [Bellhaven Middleschool](https://belhaven.linwoodschools.org/) and these are pathways that I am taking
 - law
 - Intro to technology and software 
 - Audio video tech and film
