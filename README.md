@@ -2,4 +2,4 @@
 hello my name is Connor and this is my portfolio for ist course at [Mcintosh Highschool](https://www.fcboe.org/mhs)
 
 ## Contents
-- [Resume](Resume.md)
+- [Resume](https://github.com/CDodds1/Connor-s-portfolio/blob/main/Resume.md)
