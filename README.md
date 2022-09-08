@@ -3,3 +3,4 @@ hello my name is Connor and this is my portfolio for ist course at [Mcintosh Hig
 
 ## Contents
 - [Resume](https://github.com/CDodds1/Connor-s-portfolio/blob/main/Resume.md)
+- [Binary Logic](https://github.com/BrandonFOSSedu/My-Portfolio/blob/main/Binary-Logic.md)
