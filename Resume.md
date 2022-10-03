@@ -18,3 +18,8 @@ I graduated from [Bellhaven Middleschool](https://belhaven.linwoodschools.org/) 
 - I edit videos 
 - I play the piano
 - I go to the gym
+
+## Typing Speed 
+- Keys i know
+- j,f,space
+- U'r'k
