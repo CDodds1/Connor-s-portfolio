@@ -20,6 +20,9 @@ I graduated from [Bellhaven Middleschool](https://belhaven.linwoodschools.org/) 
 - I go to the gym
 
 ## Typing Speed 
-- Keys i know
-- j,f,space
-- U'r'k
+ Keys i know
+- Wpm 37 
+- j f space
+- u r k
+- d e i
+- c g n
