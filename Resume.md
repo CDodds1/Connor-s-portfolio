@@ -21,7 +21,7 @@ I graduated from [Bellhaven Middleschool](https://belhaven.linwoodschools.org/) 
 
 ## Typing Speed 
  Keys i know
-- Wpm 37 
+- Wpm 50
 - j f space
 - u r k
 - d e i
